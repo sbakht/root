@@ -1,0 +1,154 @@
+<workout name="P90X">
+	<routine name="Chest &amp; Back">
+		<e1>Standard Push-Ups</e1>
+		<e2>Wide Front Pull-Ups</e2>
+		<e3>Military Push-Ups</e3>
+		<e4>Reverse Grip Chin-Ups</e4>
+		<e5>Wide Push-Ups</e5>
+		<e6>Close Grip Pull-Ups</e6>
+		<e7>Decline Push-Ups</e7>
+		<e8>Heavy Pants</e8>
+		<e9>Diamond Push-Ups</e9>
+		<e10>Lawnmowers</e10>
+		<e11>Dive Bombers</e11>
+		<e12>Back Flys</e12>
+		<e13>Wide Front Pull-Ups</e13>
+		<e14>Standard Push-Ups</e14>
+		<e15>Reverse Grip Chin-Ups</e15>
+		<e16>Military Push-Ups</e16>
+		<e17>Close Grip Pull-Ups</e17>
+		<e18>Wide Push-Ups</e18>
+		<e19>Heavy Pants</e19>
+		<e20>Decline Push-Ups</e20>
+		<e21>Lawnmowers</e21>
+		<e22>Diamond Push-Ups</e22>
+		<e23>Back Flys</e23>
+		<e24>Dive Bombers</e24>	
+	</routine>
+	<routine name="Legs &amp; Back">
+		<e1>Balance Lunges</e1>
+		<e2>Calf-raise Squats</e2>
+		<e3>Reverse Grip Chin-Ups</e3>
+		<e4>Super Skaters</e4>
+		<e5>Wall Squats</e5>
+		<e6>Wide Front Pull-Ups</e6>
+		<e7>Step Back Lunges</e7>
+		<e8>Alternating Side Lunges</e8>
+		<e9>Close Grip Overhand Pull-Ups</e9>
+		<e10>Single Leg Wall Squats</e10>
+		<e11>Deadlift Squats</e11>
+		<e12>Switch Grip Pull-Ups</e12>
+		<e13>Three Way Lunges</e13>
+		<e14>Sneaky Lunges</e14>
+		<e15>Reverse Grip Chin-Ups</e15>
+		<e16>Chair Saluations</e16>
+		<e17>Toe Roll Iso-Lunges</e17>
+		<e18>Wide Front Pull-Ups</e18>
+		<e19>Groucho Walk</e19>
+		<e20>Calf Raises</e20>
+		<e21>Close Grip Overhand Pull-Ups</e21>
+		<e22>80-20 Siebers Speed Squats</e22>
+		<e23>Switch Grip Pull-Ups</e23>
+	</routine>
+	<routine name="Shoulders &amp; Arms">
+		<e1>Alternating Shoulder Press</e1>
+		<e2>In/Out Bicep Curls</e2>
+		<e3>Two Arm Tricep Kickbacks</e3>
+		<e4>Alternating Shoulder Press</e4>
+		<e5>In/Out Bicep Curls</e5>
+		<e6>Two Arm Tricep Kickbacks</e6>
+		<e7>Deep Swimmers Press</e7>
+		<e8>One Arm Supination Curl</e8>
+		<e9>Chair Dips</e9>
+		<e10>Deep Swimmers Press</e10>
+		<e11>One Arm Supination Curl</e11>
+		<e12>Chair Dips</e12>
+		<e13>Upright Rows</e13>
+		<e14>Static Arm Curls</e14>
+		<e15>Flip Grip Twist Tricep Kickback</e15>
+		<e16>Upright Rows</e16>
+		<e17>Static Arm Curls</e17>
+		<e18>Flip Grip Twist Tricep Kickback</e18>
+		<e19>Seated Shoulder Fly</e19>
+		<e20>Crouching Cohen Curls</e20>
+		<e21>Lying Down Tricep Extensions</e21>
+		<e22>Seated Shoulder Fly</e22>
+		<e23>Crouching Cohen Curls</e23>
+		<e24>Lying Down Tricep Extensions</e24>
+		<e25>In/Out Shoulder Fly</e25>
+		<e26>Congdon Curls</e26>
+		<e27>Side Tri-Rise</e27>
+		<e28>In/Out Shoulder Fly</e28>
+		<e29>Congdon Curls</e29>
+		<e30>Side Tri-Rise</e30>
+	</routine>
+	<routine name="Chest, Shoulders &amp; Tricep">
+		<e1>Slow Motion 3-in-1 Pushups (+bonus)</e1>
+		<e1.5>Bonus Push-Ups</e1.5>
+		<e2>In &amp; Out Shoulder Fly</e2>
+		<e3>Chair Dips</e3>
+		<e4>Plange Push-Ups</e4>
+		<e5>Pike Press</e5>
+		<e6>Side Tri-Rise</e6>
+		<e7>Floor Flys</e7>
+		<e8>Scarecrows</e8>
+		<e9>Overhead Tricep Extensions</e9>
+		<e10>Two-Twitch Speed Push-ups</e10>
+		<e11>Y-Press</e11>
+		<e12>Lying Tricep Extensions</e12>
+		<e13>Side-to-Side Push-Ups</e13>
+		<e14>Pour Flys</e14>
+		<e15>Side Leaning Triceps Extension</e15>
+		<e16>One-Arm Push-Ups</e16>
+		<e17>Weighted Circles</e17>
+		<e18>Throw the Bomb</e18>
+		<e19>Clap or Plyo Push-Ups</e19>
+		<e20>Slow-Mo Throw</e20>
+		<e21>Front-to-Back Triceps Extensions</e21>
+		<e22>One Arm Balance Push-Ups</e22>
+		<e23>Fly-Row Press</e23>
+		<e24>Dumbbell Cross Body Blows</e24>
+	</routine>
+	<routine name="Back &amp; Biceps">
+		<e1>Wide Front Pull-Ups</e1>
+		<e2>Lawnmowers</e2>
+		<e3>Twenty-Ones</e3>
+		<e4>One Arm Cross Body Curl</e4>
+		<e5>Switch Grip Pull-Ups</e5>
+		<e6>Elbow Out Lawnmower</e6>
+		<e7>Standing Bicep Curl</e7>
+		<e8>One Arm Concentration Curl</e8>
+		<e9>Corn Cob Pull-Ups</e9>
+		<e10>Reverse Grip Bent Over Row</e10>
+		<e11>Open Arm Curl</e11>
+		<e12>Static Arm Curl</e12>
+		<e13>Towel Pull-Up</e13>
+		<e14>Congdon Locomotive</e14>
+		<e15>Crouching Cohen Curl</e15>
+		<e16>One Arm Corkscrew Curl</e16>
+		<e17>Chip-Ups</e17>
+		<e18>Seated Bent Over Back Flys</e18>
+		<e19>Curl Up/Hammer Down</e19>
+		<e20>Hammer Curl</e20>
+		<e21>Max Rep Pull-Ups</e21>
+		<e22>Supermans</e22>
+		<e23>In-Out Hammer Curl</e23>
+		<e24.1>Strip Set Curl</e24.1>
+		<e24.2>Strip Set Curl</e24.2>
+		<e24.3>Strip Set Curl</e24.3>
+		<e24.4>Strip Set Curl</e24.4>	
+	</routine>
+	<routine name="Ab Ripper X">
+		<e1>In &amp; Outs</e1>
+		<e2>Bicycles</e2>
+		<e3>Crunchy Frogs</e3>
+		<e4>Cross Leg/Wide Leg Sit-Ups</e4>
+		<e5>Fifer Scissors</e5>
+		<e6>Hip Rock 'N Raise</e6>
+		<e7>Pulse Ups (Heels to Heaven)</e7>
+		<e8>V-Up/Roll-Up Combos</e8>
+		<e9>Oblique V-Ups</e9>
+		<e10>Leg Climbs</e10>
+		<e11>Mason Twist</e11>
+	</routine>
+</workout>

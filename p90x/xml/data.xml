@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+
+<workouts>
+  <program name="P90X">
+    <workout name="Muscle">
+      <week1>
+        <day1 name="Chest, Shoulders &amp; Triceps">
+          <e1>1</e1>
+          <e2>4</e2>
+          <e3>3</e3>
+          <e4>2</e4>
+          <e5>2</e5>
+          <e6>2</e6>
+          <e7>2</e7>
+          <e8>2</e8>
+          <e9>5</e9>
+          <e10>44</e10>
+          <e11>2</e11>
+          <e12>3</e12>
+          <e13>54</e13>
+          <e14>12</e14>
+          <e15>11</e15>
+          <e16>19</e16>
+          <e17>4</e17>
+          <e18>5</e18>
+          <e19>3</e19>
+          <e20>2</e20>
+          <e21>1</e21>
+          <e22>2</e22>
+          <e23>3</e23>
+          <e24>2</e24>
+          <e25>3</e25>
+        </day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>Chest &amp; Back</day3>
+        <day4>Back &amp; Biceps</day4>
+        <day5 name="Legs &amp; Back">
+          <e1>10</e1>
+          <e2>9</e2>
+          <e3>8</e3>
+          <e4>7</e4>
+          <e5>6</e5>
+          <e6>5</e6>
+          <e7>4</e7>
+          <e8>3</e8>
+          <e9>2</e9>
+          <e10>1</e10>
+          <e11>0</e11>
+          <e12>3</e12>
+          <e13>54</e13>
+          <e14>12</e14>
+          <e15>11</e15>
+          <e16>19</e16>
+          <e17>4</e17>
+          <e18>5</e18>
+          <e19>3</e19>
+          <e20>2</e20>
+          <e21>1</e21>
+          <e22>1</e22>
+          <e23>3</e23>
+        </day5>
+        <day6>Ab Ripper X</day6>
+        <day7>Off</day7>
+      </week1>
+      <week2>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>Chest &amp; Back</day3>
+        <day4>Back &amp; Biceps</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Ab Ripper X</day6>
+        <day7>Off</day7>
+      </week2>
+      <week3>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>Chest &amp; Back</day3>
+        <day4>Back &amp; Biceps</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Ab Ripper X</day6>
+        <day7>Off</day7>
+      </week3>
+      <week4>
+        <day1>Back &amp; Biceps</day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>off</day3>
+        <day4>Ab Ripper X</day4>
+        <day5>Chest &amp; Back</day5>
+        <day6>Legs &amp; Back</day6>
+        <day7>Chest &amp; Back</day7>
+      </week4>
+      <week5>
+        <day1>Back &amp; Biceps</day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>off</day3>
+        <day4>Ab Ripper X</day4>
+        <day5>Chest &amp; Back</day5>
+        <day6>Legs &amp; Back</day6>
+        <day7>Chest &amp; Back</day7>
+      </week5>
+      <week6>
+        <day1>Back &amp; Biceps</day1>
+        <day2>Shoulders &amp; Arms</day2>
+        <day3>off</day3>
+        <day4>Ab Ripper X</day4>
+        <day5>Chest &amp; Back</day5>
+        <day6>Legs &amp; Back</day6>
+        <day7>Chest &amp; Back</day7>
+      </week6>
+
+    </workout>
+
+    <workout name="Classics">
+
+
+
+    </workout>
+
+    <workout name="Double">
+
+
+
+    </workout>
+
+    <workout name="Lean">
+
+
+
+    </workout>
+  </program>  
+</workouts>

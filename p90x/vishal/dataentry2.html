@@ -1,0 +1,37 @@
+<?php
+  $workouts = simplexml_load_file("exercises.xml");
+  session_start();
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title> Data Entry </title>	
+<link href="http://i5.nyu.edu/~vkj209/finalstyle.css" rel="stylesheet" type="text/css">
+<script src="p90xjs.js" language="javascript" type="text/javascript"></script>	
+</head>
+<body>
+<form action="http://i5.nyu.edu/cgi-bin/cgiwrap/~vkj209/entryresult.php" method="post">
+<h2>Welcome Vishal</h2>
+
+<p>Which routine did you do/are you doing?<br>
+<select onClick="loadXMLDoc(this.value)" name=location_name>
+<option value="">Routine</option>
+<option value="bb">Back & Biceps</option>
+<option value="cb">Chest & Back</option>
+<option value="cst">Chest Shoulders & Triceps</option>
+<option value="lb">Legs & Back</option>
+<option value="sa">Shoulders & Arms</option>
+<option value="ar" >Ab Ripper X</option>
+
+
+
+</select></p>
+
+<h4 id="1ex"></h4>
+
+<p><input type=submit value=Submit> 
+<input type=reset value=Cancel> </p>
+</form>
+</body>
+</html>

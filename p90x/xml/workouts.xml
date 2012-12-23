@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+
+<workouts>
+  <program name="P90X">
+    <workout name="Muscle">
+      <week1>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week1>
+      <week2>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week2>
+      <week3>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week3>
+      <week4>
+        <day1>Chest &amp; Back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week4>
+      <week5>
+        <day1>Chest &amp; Back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week5>
+      <week6>
+        <day1>Chest &amp; Back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week6>
+      <week7>
+        <day1>X Stretch</day1>
+        <day2>Yoga X</day2>
+        <day3>Core Synergistics</day3>
+        <day4>Kenpo X</day4>
+        <day5>Yoga X</day5>
+        <day6>X Stretch</day6>
+        <day7>Off</day7>        
+      </week7>
+      <week8>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>         
+      </week8>
+      <week9>
+        <day1>Chest &amp; back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week9>
+      <week10>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>      
+      </week10>
+      <week11>
+        <day1>Chest &amp; back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>      
+      </week11>
+      <week12>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Legs &amp; Back</day3>
+        <day4>X Stretch</day4>
+        <day5>Back &amp; Biceps</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>
+      </week12>
+      <week13>
+        <day1>Chest &amp; back</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>X Stretch</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>  
+      </week13>
+    </workout>
+
+    <workout name="Classics">
+      <week1>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week1>
+      <week2>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week2>
+      <week3>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week3>
+      <week4>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week4>
+      <week5>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week5>       
+      <week6>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week6>       
+      <week7>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week7> 
+      <week8>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week8> 
+      <week9>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week9>
+      <week10>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week10>
+      <week11>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week11>
+      <week12>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week12>    
+      <week13>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week13> 
+    </workout>
+
+    <workout name="Double">
+      <week1>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week1>
+      <week2>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week2>
+      <week3>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week3>
+      <week4>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week4>
+      <week5>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week5>       
+      <week6>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week6>       
+      <week7>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week7> 
+      <week8>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week8> 
+      <week9>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week9>
+      <week10>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week10>
+      <week11>
+        <day1>Chest &amp; Back</day1>
+        <day2>Plyometrics</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week11>
+      <week12>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Plyometrics</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week12>    
+      <week13>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week13> 
+    </workout>
+
+    <workout name="Lean">
+      <week1>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week1>
+      <week2>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week2>
+      <week3>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week3>
+      <week4>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week4>
+      <week5>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Chest, Shoulders &amp; Triceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week5>      
+      <week6>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Chest, Shoulders &amp; Triceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week6>
+      <week7>
+        <day1>Core Synergistics</day1>
+        <day2>Cardio X</day2>
+        <day3>Chest, Shoulders &amp; Triceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Legs &amp; Back</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week7>
+      <week8>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Cardio X</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week8>
+      <week9>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week9>
+      <week10>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week10> 
+      <week11>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Shoulders &amp; Arms</day3>
+        <day4>Yoga X</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week11> 
+      <week12>
+        <day1>Chest, Shoulders &amp; Triceps</day1>
+        <day2>Cardio X</day2>
+        <day3>Back &amp; Biceps</day3>
+        <day4>Yoga X</day4>
+        <day5>Core Synergistics</day5>
+        <day6>Kenpo X</day6>
+        <day7>Off</day7>     
+      </week12>
+      <week13>
+        <day1>Yoga X</day1>
+        <day2>Core Synergistics</day2>
+        <day3>Kenpo X</day3>
+        <day4>X Stretch</day4>
+        <day5>Cardio X</day5>
+        <day6>Yoga X</day6>
+        <day7>Off</day7>     
+      </week13>       
+    </workout>
+  </program>  
+</workouts>

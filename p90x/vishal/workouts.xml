@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<workouts>
+  <workout name="Muscle">
+    <week1>
+      <day1>Chest, Shoulders &amp; Tricep</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>Chest &amp; Back</day3>
+      <day4>Back &amp; Biceps</day4>
+      <day5>Legs &amp; Back</day5>
+      <day6>Ab Ripper X</day6>
+      <day7>Off</day7>
+    </week1>
+    <week2>
+      <day1>Chest, Shoulders &amp; Tricep</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>Chest &amp; Back</day3>
+      <day4>Back &amp; Biceps</day4>
+      <day5>Legs &amp; Back</day5>
+      <day6>Ab Ripper X</day6>
+      <day7>Off</day7>
+    </week2>
+    <week3>
+      <day1>Chest, Shoulders &amp; Tricep</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>Chest &amp; Back</day3>
+      <day4>Back &amp; Biceps</day4>
+      <day5>Legs &amp; Back</day5>
+      <day6>Ab Ripper X</day6>
+      <day7>Off</day7>
+    </week3>
+    <week4>
+      <day1>Back &amp; Biceps</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>off</day3>
+      <day4>Ab Ripper X</day4>
+      <day5>Chest &amp; Back</day5>
+      <day6>Legs &amp; Back</day6>
+      <day7>Chest &amp; Back</day7>
+    </week4>
+    <week5>
+      <day1>Back &amp; Biceps</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>off</day3>
+      <day4>Ab Ripper X</day4>
+      <day5>Chest &amp; Back</day5>
+      <day6>Legs &amp; Back</day6>
+      <day7>Chest &amp; Back</day7>
+    </week5>
+    <week6>
+      <day1>Back &amp; Biceps</day1>
+      <day2>Shoulders &amp; Arms</day2>
+      <day3>off</day3>
+      <day4>Ab Ripper X</day4>
+      <day5>Chest &amp; Back</day5>
+      <day6>Legs &amp; Back</day6>
+      <day7>Chest &amp; Back</day7>
+    </week6>
+
+  </workout>
+
+  <workout name="Classics">
+
+
+
+  </workout>
+
+  <workout name="Double">
+
+
+
+  </workout>
+
+  <workout name="Lean">
+
+
+
+  </workout>
+</workouts>

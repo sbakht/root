@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<todo>
+  <user name="vishal">
+    <date day="Sun, Oct 07 12">
+      <value>
+        &lt;li&gt;here&lt;/li&gt;
+      </value>
+    </date>
+</user><user name="saad"><date day="Sun, Oct 07 12"><value>&lt;li&gt;here&lt;/li&gt;</value></date></user></todo>
